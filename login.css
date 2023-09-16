@@ -1,0 +1,19 @@
+.section--signup {
+  width: 50%;
+  margin: 0 auto;
+  background-color: aqua;
+  /* height: ; */
+  margin: 0 auto;
+}
+
+.signup-main {
+  background-color: rgb(63, 117, 164);
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.signup-details {
+  display: flex;
+  flex-direction: column;
+}
